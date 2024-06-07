@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tablebox.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with all techstack of web development and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Personal Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is designed to provide a complete overview about me. ",
+    url: "https://akanksha038.github.io/Portfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JavaScript Project for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The Tic-Tac-Toe Game is a classic two-player game implemented using modern web technologies. The objective of this project is to create a simple, interactive, and fun game that demonstrates my skills in front-end development.",
+    url: "https://github.com/Akanksha038/Tic-Tac-Toe-Game",
   },
   {
-    title: "My Resume Site",
+    title: "Random Password Generator Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Random Password Generator is a web application designed to create secure and random passwords for users. Its purpose is to help users generate strong passwords that can protect their online accounts from unauthorized access.",
+    url: "https://github.com/Akanksha038/Password-Generator",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Parallax-Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Parallax scrolling is a web design technique where background images move at a slower rate than foreground images, creating an illusion of depth and immersion as users scroll down a webpage.",
+    url: "https://github.com/Akanksha038/Parallax-Website",
   },
 ];
 
